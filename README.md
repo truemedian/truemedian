@@ -1,6 +1,8 @@
-Hello!
+# About Me
 
 I do random things from time to time.
+
+I might program occasionally.
 
 <!-- GitHub Stat Cards -->
 <div white-space="nowrap">
