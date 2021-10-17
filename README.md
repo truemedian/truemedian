@@ -2,6 +2,8 @@
 
 I do random things from time to time.
 
+You'll probably find me programming.
+
 My current go to languages: [Lua](https://lua.org) and [Zig](https://ziglang.org)
 
 <!-- GitHub Stat Cards -->
