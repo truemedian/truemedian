@@ -2,7 +2,7 @@
 
 I do random things from time to time.
 
-I might program occasionally.
+My current go to languages: [Lua](https://lua.org) and [Zig](https://ziglang.org)
 
 <!-- GitHub Stat Cards -->
 <div white-space="nowrap">
