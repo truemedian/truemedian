@@ -1,3 +1,4 @@
+
 # About Me
 
 I do random things from time to time.
@@ -5,6 +6,12 @@ I do random things from time to time.
 You'll probably find me programming.
 
 My current go to languages: [Lua](https://lua.org) and [Zig](https://ziglang.org)
+
+## My Site
+
+[truemedian.me](https://truemedian.me)
+
+## Github
 
 <!-- GitHub Stat Cards -->
 <div white-space="nowrap">
